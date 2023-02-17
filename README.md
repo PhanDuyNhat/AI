@@ -1,1 +1,1 @@
-# AI_UTE
+# AI learing process
